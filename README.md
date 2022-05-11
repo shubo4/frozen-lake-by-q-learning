@@ -11,6 +11,6 @@ Objective:
 The goal of this game is to go from the starting state (S) to the goal state (G) by walking only on frozen tiles (F) and avoid holes (H). However, the ice is slippery, so you won't always move in the direction you intend (stochastic environment)
 
  Pre-installation required:
- !pip install gym -use this to install gym in order to access the enironments
+ !pip install gym -use this to install gym in order to access the environments
  
 Everything is explained step by step inside python code.
